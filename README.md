@@ -1,2 +1,2 @@
-[Link to Learnlayout Table](https://github.com/jimmy-wynendaele/learnlayout-css/Learnlayout-table.html)
+[Link to Learnlayout Table](https://jimmy-wynendaele.github.io/learnlayout-css/Learnlayout-table.html)
 
